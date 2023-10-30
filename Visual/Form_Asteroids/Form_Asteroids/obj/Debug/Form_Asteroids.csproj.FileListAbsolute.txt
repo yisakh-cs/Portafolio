@@ -1,0 +1,15 @@
+c:\users\castro\documents\visual studio 2017\Projects\Form_Asteroids\Form_Asteroids\obj\Debug\Form_Asteroids.csprojResolveAssemblyReference.cache
+c:\users\castro\documents\visual studio 2017\Projects\Form_Asteroids\Form_Asteroids\obj\Debug\Form_Asteroids.Form.resources
+c:\users\castro\documents\visual studio 2017\Projects\Form_Asteroids\Form_Asteroids\obj\Debug\Form_Asteroids.Properties.Resources.resources
+c:\users\castro\documents\visual studio 2017\Projects\Form_Asteroids\Form_Asteroids\obj\Debug\Form_Asteroids.csproj.GenerateResource.Cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Form_Asteroids\Form_Asteroids\obj\Debug\Form_Asteroids.csproj.AssemblyReference.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Form_Asteroids\Form_Asteroids\obj\Debug\Form_Asteroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Form_Asteroids\Form_Asteroids\obj\Debug\Form_Asteroids.Form.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Form_Asteroids\Form_Asteroids\obj\Debug\Form_Asteroids.Properties.Resources.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Form_Asteroids\Form_Asteroids\obj\Debug\Form_Asteroids.csproj.GenerateResource.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Form_Asteroids\Form_Asteroids\obj\Debug\Form_Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Form_Asteroids\Form_Asteroids\bin\Debug\Form_Asteroids.exe.config
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Form_Asteroids\Form_Asteroids\bin\Debug\Form_Asteroids.exe
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Form_Asteroids\Form_Asteroids\bin\Debug\Form_Asteroids.pdb
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Form_Asteroids\Form_Asteroids\obj\Debug\Form_Asteroids.exe
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Form_Asteroids\Form_Asteroids\obj\Debug\Form_Asteroids.pdb

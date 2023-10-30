@@ -1,0 +1,15 @@
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\Petvirtual\Petvirtual\bin\Debug\Petvirtual.exe.config
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\Petvirtual\Petvirtual\bin\Debug\Petvirtual.exe
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\Petvirtual\Petvirtual\bin\Debug\Petvirtual.pdb
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\Petvirtual\Petvirtual\obj\Debug\Petvirtual.csprojResolveAssemblyReference.cache
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\Petvirtual\Petvirtual\obj\Debug\Petvirtual.Form1.resources
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\Petvirtual\Petvirtual\obj\Debug\Petvirtual.Juego.resources
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\Petvirtual\Petvirtual\obj\Debug\Petvirtual.Properties.Resources.resources
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\Petvirtual\Petvirtual\obj\Debug\Petvirtual.csproj.GenerateResource.Cache
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\Petvirtual\Petvirtual\obj\Debug\Petvirtual.exe
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\Petvirtual\Petvirtual\obj\Debug\Petvirtual.pdb
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\Petvirtual\Petvirtual\obj\Debug\Petvirtual.frm_Save.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Petvirtual\Petvirtual\obj\Debug\Petvirtual.csproj.AssemblyReference.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Petvirtual\Petvirtual\obj\Debug\Petvirtual.csproj.SuggestedBindingRedirects.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Petvirtual\Petvirtual\obj\Debug\Petvirtual.exe
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\Projects\Petvirtual\Petvirtual\obj\Debug\Petvirtual.pdb

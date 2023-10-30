@@ -1,0 +1,6 @@
+			//Cargamos los datos en los texts basados en la fila seleccionada del ListView
+			txtCodigo.Text=lstDatos.SelectedItems[0].Text;
+			txtNombre.Text=lstDatos.SelectedItems[0].SubItems[1].Text;
+			txtPrecio.Text=lstDatos.SelectedItems[0].SubItems[2].Text;
+			txtCantidad.Text=lstDatos.SelectedItems[0].SubItems[3].Text;
+			cmbCategoria.Text=lstDatos.SelectedItems[0].SubItems[4].Text;

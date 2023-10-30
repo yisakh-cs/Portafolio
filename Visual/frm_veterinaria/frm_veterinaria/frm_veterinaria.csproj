@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE38B9B4-65C7-4379-A645-1901727C0026}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>frm_veterinaria</RootNamespace>
+    <AssemblyName>frm_veterinaria</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Agmedicamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Agmedicamento.Designer.cs">
+      <DependentUpon>frm_Agmedicamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_agregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_agregar.Designer.cs">
+      <DependentUpon>frm_agregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_agrMascotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_agrMascotas.Designer.cs">
+      <DependentUpon>frm_agrMascotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AgVete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_AgVete.Designer.cs">
+      <DependentUpon>frm_AgVete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ayuda.Designer.cs">
+      <DependentUpon>frm_ayuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BuscarD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BuscarD.Designer.cs">
+      <DependentUpon>frm_BuscarD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BusEspecies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BusEspecies.Designer.cs">
+      <DependentUpon>frm_BusEspecies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_busMascota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_busMascota.Designer.cs">
+      <DependentUpon>frm_busMascota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_citas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_citas.Designer.cs">
+      <DependentUpon>frm_citas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Esp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Esp.Designer.cs">
+      <DependentUpon>frm_Esp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Exp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Exp.Designer.cs">
+      <DependentUpon>frm_Exp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_medicamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_medicamento.Designer.cs">
+      <DependentUpon>frm_medicamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_tratamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_tratamiento.Designer.cs">
+      <DependentUpon>frm_tratamiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Vercitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Vercitas.Designer.cs">
+      <DependentUpon>frm_Vercitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_verExp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_verExp.Designer.cs">
+      <DependentUpon>frm_verExp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_verTratamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_verTratamiento.Designer.cs">
+      <DependentUpon>frm_verTratamiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_vete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_vete.Designer.cs">
+      <DependentUpon>frm_vete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Agmedicamento.resx">
+      <DependentUpon>frm_Agmedicamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_agregar.resx">
+      <DependentUpon>frm_agregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_agrMascotas.resx">
+      <DependentUpon>frm_agrMascotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_AgVete.resx">
+      <DependentUpon>frm_AgVete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ayuda.resx">
+      <DependentUpon>frm_ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_BuscarD.resx">
+      <DependentUpon>frm_BuscarD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_BusEspecies.resx">
+      <DependentUpon>frm_BusEspecies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_busMascota.resx">
+      <DependentUpon>frm_busMascota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_citas.resx">
+      <DependentUpon>frm_citas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Esp.resx">
+      <DependentUpon>frm_Esp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Exp.resx">
+      <DependentUpon>frm_Exp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_medicamento.resx">
+      <DependentUpon>frm_medicamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_tratamiento.resx">
+      <DependentUpon>frm_tratamiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Vercitas.resx">
+      <DependentUpon>frm_Vercitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_verExp.resx">
+      <DependentUpon>frm_verExp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_verTratamiento.resx">
+      <DependentUpon>frm_verTratamiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_vete.resx">
+      <DependentUpon>frm_vete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\Form1.datasource" />
+    <None Include="Properties\DataSources\frm_agregar.datasource" />
+    <None Include="Properties\DataSources\frm_agrMascotas.datasource" />
+    <None Include="Properties\DataSources\frm_BuscarD.datasource" />
+    <None Include="Properties\DataSources\frm_veterinaria.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\frm_veterinaria.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

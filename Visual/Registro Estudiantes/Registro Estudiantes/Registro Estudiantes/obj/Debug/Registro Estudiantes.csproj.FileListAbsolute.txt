@@ -1,0 +1,30 @@
+C:\Users\Taylor_MB\source\repos\Registro Estudiantes\Registro Estudiantes\bin\Debug\Registro Estudiantes.exe.config
+C:\Users\Taylor_MB\source\repos\Registro Estudiantes\Registro Estudiantes\bin\Debug\Registro Estudiantes.exe
+C:\Users\Taylor_MB\source\repos\Registro Estudiantes\Registro Estudiantes\bin\Debug\Registro Estudiantes.pdb
+C:\Users\Taylor_MB\source\repos\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.csprojResolveAssemblyReference.cache
+C:\Users\Taylor_MB\source\repos\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro_Estudiantes.Estudiantes.resources
+C:\Users\Taylor_MB\source\repos\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro_Estudiantes.Properties.Resources.resources
+C:\Users\Taylor_MB\source\repos\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.csproj.GenerateResource.cache
+C:\Users\Taylor_MB\source\repos\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Taylor_MB\source\repos\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.exe
+C:\Users\Taylor_MB\source\repos\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.pdb
+C:\Users\Castro\Desktop\UNA\Ciclo I 2018\Programacion 2\Registro Estudiantes\Registro Estudiantes\bin\Debug\Registro Estudiantes.exe.config
+C:\Users\Castro\Desktop\UNA\Ciclo I 2018\Programacion 2\Registro Estudiantes\Registro Estudiantes\bin\Debug\Registro Estudiantes.exe
+C:\Users\Castro\Desktop\UNA\Ciclo I 2018\Programacion 2\Registro Estudiantes\Registro Estudiantes\bin\Debug\Registro Estudiantes.pdb
+C:\Users\Castro\Desktop\UNA\Ciclo I 2018\Programacion 2\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.csprojResolveAssemblyReference.cache
+C:\Users\Castro\Desktop\UNA\Ciclo I 2018\Programacion 2\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro_Estudiantes.Estudiantes.resources
+C:\Users\Castro\Desktop\UNA\Ciclo I 2018\Programacion 2\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro_Estudiantes.Properties.Resources.resources
+C:\Users\Castro\Desktop\UNA\Ciclo I 2018\Programacion 2\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.csproj.GenerateResource.Cache
+C:\Users\Castro\Desktop\UNA\Ciclo I 2018\Programacion 2\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.exe
+C:\Users\Castro\Desktop\UNA\Ciclo I 2018\Programacion 2\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.pdb
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Registro Estudiantes\Registro Estudiantes\Registro Estudiantes\bin\Debug\Registro Estudiantes.exe.config
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Registro Estudiantes\Registro Estudiantes\Registro Estudiantes\bin\Debug\Registro Estudiantes.exe
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Registro Estudiantes\Registro Estudiantes\Registro Estudiantes\bin\Debug\Registro Estudiantes.pdb
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Registro Estudiantes\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.csproj.AssemblyReference.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Registro Estudiantes\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Registro Estudiantes\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro_Estudiantes.Estudiantes.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Registro Estudiantes\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro_Estudiantes.Properties.Resources.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Registro Estudiantes\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.csproj.GenerateResource.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Registro Estudiantes\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Registro Estudiantes\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.exe
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Registro Estudiantes\Registro Estudiantes\Registro Estudiantes\obj\Debug\Registro Estudiantes.pdb

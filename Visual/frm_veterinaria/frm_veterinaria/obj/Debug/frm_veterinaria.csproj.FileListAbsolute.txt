@@ -1,0 +1,66 @@
+C:\Users\Castro\documents\visual studio 2017\Projects\frm_veterinaria\frm_veterinaria\bin\Debug\frm_veterinaria.exe.config
+C:\Users\Castro\documents\visual studio 2017\Projects\frm_veterinaria\frm_veterinaria\bin\Debug\frm_veterinaria.exe
+C:\Users\Castro\documents\visual studio 2017\Projects\frm_veterinaria\frm_veterinaria\bin\Debug\frm_veterinaria.pdb
+C:\Users\Castro\documents\visual studio 2017\Projects\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.csprojResolveAssemblyReference.cache
+C:\Users\Castro\documents\visual studio 2017\Projects\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.Form1.resources
+C:\Users\Castro\documents\visual studio 2017\Projects\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_agregar.resources
+C:\Users\Castro\documents\visual studio 2017\Projects\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.Properties.Resources.resources
+C:\Users\Castro\documents\visual studio 2017\Projects\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.csproj.GenerateResource.Cache
+C:\Users\Castro\documents\visual studio 2017\Projects\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.exe
+C:\Users\Castro\documents\visual studio 2017\Projects\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.pdb
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_agrMascotas.resources
+C:\Users\Castro\Documents\Visual Studio 2017\Projects\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_BuscarD.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.csprojResolveAssemblyReference.cache
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.Form1.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_Agmedicamento.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_agregar.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_agrMascotas.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_BuscarVete.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_BuscarD.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_BusEspecies.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_busMascota.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_citas.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_VerEsp.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_Exp.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_medicamento.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_tratamiento.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_Vercitas.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_verExp.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_verTratamiento.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_vete.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.Resources.resources
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.csproj.GenerateResource.Cache
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.exe
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.pdb
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\bin\Debug\frm_veterinaria.exe.config
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\bin\Debug\frm_veterinaria.exe
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\bin\Debug\frm_veterinaria.pdb
+C:\Users\Castro\Documents\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_ayuda.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.csproj.AssemblyReference.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.Form1.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_Agmedicamento.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_agregar.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_agrMascotas.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_BuscarVete.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_ayuda.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_BuscarD.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_BusEspecies.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_busMascota.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_citas.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_VerEsp.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_Exp.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_medicamento.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_tratamiento.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_Vercitas.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_verExp.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_verTratamiento.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.frm_vete.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.Resources.resources
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.csproj.GenerateResource.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.exe
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\obj\Debug\frm_veterinaria.pdb
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\bin\Debug\frm_veterinaria.exe.config
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\bin\Debug\frm_veterinaria.exe
+C:\Users\yisak\OneDrive\Escritorio\Proyectos Dev\Visual\Visual Studio projects\Visual Studio 2017\frm_veterinaria\frm_veterinaria\bin\Debug\frm_veterinaria.pdb
