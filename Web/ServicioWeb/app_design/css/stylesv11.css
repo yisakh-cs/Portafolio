@@ -1,0 +1,257 @@
+#main_page
+{
+	background:#5dedb321;
+}
+#seccion_box
+{
+	height:90%;
+}
+img
+{
+	width:90%;
+	margin-left:5%;
+}
+#menu
+{
+	background-color: #4BBE90;
+	margin: 0% 5% auto;
+	font-size: 14px;
+	font-weight: 900;
+	position:relative;
+	width: 90%;
+	height:9%
+}
+#frm_menu
+{
+	width:80%;
+}
+.boton
+{
+  border:none;
+  background: #4BBE90;
+  height: 70%;
+  border-radius: 30px;
+  cursor: pointer;
+  margin: 5px 0px 0px 9px;
+  text-align: center;
+  width: 18.6%;
+  font-family:serif;
+  font-size:16;
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  outline:none;
+}
+.boton:hover
+{
+  	color: white;
+  	border:2px solid #55B890;
+  	border-radius:45%;
+  	background-color:#689985;
+}
+#btn_contacto 
+
+{
+	position:absolute;
+	right:1%;
+	border:none;
+}
+#btn_galeria
+{
+	position:absolute;
+	right:20%;
+	border:none;
+}
+#btn_servicio
+{
+	position:absolute;
+	right:39%;
+	border:none;
+}
+#btn_QS
+{
+position:absolute;
+right:58%;
+border:none;
+}
+#btn_inicio
+{
+position:absolute;
+right:80%;
+border:none;
+}
+.formulario
+{
+	position:relative;
+	text-align:left;
+    display:block;
+    width:50%;
+	height: 90%;
+	right:-10%;
+}
+
+input
+{
+  	width:110%;
+    height:6%;
+    background:#white;
+    margin-top:6%;
+    font-size:small;
+    border:2px solid #3BC68E;
+	font-family: :serif;
+	font-size: :16%;
+	outline:none;
+	text-align:center;
+}
+textarea
+{
+    width:110%;
+    height:20%;
+    background:#white;
+    padding:1%;
+    margin-top:6%;
+    border:2px solid #3BC68E;
+    font-size:16;
+ 	font-family:serif;
+	outline:none;
+}
+
+#btnEnviar
+{
+    border:2px solid #3BC68E;
+ 	border-radius: 30px;
+  	cursor: pointer;
+  	text-align: center;
+  	outline:none;
+    width:60%;
+    cursor:pointer;
+    margin:10% 20%;
+    background:#428E6F;
+    color:White;
+	height:6%;
+}
+#btnEnviar:hover
+{
+	color: white;
+  	border:2px solid #55B890;
+  	background-color:#558270;
+}
+.principal
+{
+	text-align:left;
+	font-family:serif;
+	font-size:20;
+}
+.inicio
+{
+	position:relative;
+	font-size:115%;
+	font-family:serif;
+	margin-top:-15%;
+	right:10%;
+	height:auto;
+	margin-left:4.5%;
+	text-align:justify;
+}
+#inicios
+{
+	position: relative;
+	width: 80%;
+	height: 60%;
+    margin:10% ;
+	padding-top: 5%;
+	right:1%;
+	margin-top:-10%;
+}
+#about
+{
+	position: relative;
+	width: 80%;
+	height: auto;
+  	margin:5% ;
+	padding-top: 0%;
+	text-align:justify;
+	right:-5%;
+	margin-top:5%;
+}
+#message
+{
+	margin:10%;
+	margin-top:10%;
+
+}
+#message1
+{
+	margin:6%;
+	margin-top:1%;
+	font-size:16;
+	font-family:serif;
+
+}
+.informacion
+{
+	position:relative;
+	font-size:115%;
+	font-family:serif;
+	margin-top:-20%;
+	right:10%;
+	width:300%;
+	height:auto;
+}
+#panel_app
+{
+	width:100%;
+	height:auto;
+}
+.infoServicio
+{
+	position:relative;
+	right:-5%;
+	width:89%;
+	border:1px solid #10cbd0;
+	border-top:2px solid #4bbe90;
+	border-radius:2%;
+	margin-top:3%
+}
+.ver
+{
+	position:relative;
+	right:-80%;
+	margin-top:-1%;
+	width:20%;
+	border:none;
+	background:transparent;
+	font-size:100%;
+	font-family:serif;
+	color:#0b0bb1;
+	border-radius:30%;
+	outline:none;
+}
+
+.ver:hover
+{
+	background:#f3f3f3;
+}
+.infoServicio:hover
+{
+	background:#f4fff8;
+}
+#infoContact
+{	
+	position:relative;
+	right:-120%;
+	text-align: left;
+	top:-83%;
+}
+
+.myslides
+{
+	margin-left:-5%;
+	width:100%;
+}
+
+footer
+{
+	position:relative;
+	background: #4BBE90;
+	text-align: center;
+}

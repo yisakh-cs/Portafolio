@@ -1,0 +1,53 @@
+#seccion_box{
+	top:68px;
+	position: relative;
+	width: 95%;
+	height: 60%;
+	margin: auto;
+	color: #AAA;
+    content: url('../img/banner1.jpg');
+}
+
+#panel_app
+{
+	
+}
+.WebSite
+{
+	right:30%;
+}
+#menu
+{
+	background-color: #5C5A40;
+	margin: 0% 0% 55% 5%;
+	right:2.5%;
+	top:-370px;
+	font-size: 14px;
+	font-weight: 900;
+	position:relative;
+
+}
+#menu ul
+{
+	list-style: none;
+	margin:5%;
+	padding:0.2%;
+	text-align:center;
+}
+#menu ul li
+{
+	display:inline-block;
+}
+#menu ul li a
+{
+	color:white;
+	display:block;
+	text-decoration: none;
+	padding: 6% 30px;
+	position:relative;
+}
+#menu ul li  a:hover 
+{
+background-color:#237860;
+}
+
