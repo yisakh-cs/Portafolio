@@ -1,0 +1,1 @@
+Crear una base de datos para la conexion con los datos de las clases o lo que necesite
