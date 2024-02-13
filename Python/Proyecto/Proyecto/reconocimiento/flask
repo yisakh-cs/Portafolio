@@ -1,0 +1,36 @@
+from flask import Flask, send_file
+from twilio.rest import Client
+import os
+
+app = Flask(__name__)
+
+# Configuración de Twilio
+account_sid = 'AC97753400266a22af24c35b2ab1925179'
+auth_token = '63ddd2f406a11df408434c253ee7e141'
+twilio_number = 'whatsapp:+14155238886'
+to_number = 'whatsapp:+50688665650'
+
+client = Client(account_sid, auth_token)
+
+@app.route('/imagen.jpg')
+def get_image():
+    return send_file('ruta/a/la/imagen/imagen.jpg', mimetype='image/jpeg')
+
+@app.route('/enviar-imagen')
+def enviar_imagen():
+    image_path = 'C:/Users/yisak/Documents/Python/Proyecto/Temp/imagen.jpg'
+    image_url = f'http://281b-2a07-23c0-8-c000-00-113d.ngrok-free.app/imagen.jpg'
+
+    message_body = f'¡Hola! Aquí tienes una imagen: {image_url}'
+
+    message = client.messages.create(
+        body=message_body,
+        from_=twilio_number,
+        to=to_number
+    )
+
+    return 'Imagen enviada'
+
+if __name__ == '__main__':
+    app.run()
+

@@ -1,0 +1,47 @@
+import nxt.sensor 
+from nxt.motor import Motor , Port
+import nxt.locator
+import nxt.sensor.generic
+
+class BrickRobot:
+    def __init__(self):
+        self.robot= nxt.locator.find()
+        self.motorC= Motor(self.robot,Port.C)
+        self.motorB= Motor(self.robot,Port.B)
+    def getSensor(self):
+        lightSensor=self.robot.get_sensor(nxt.sensor.Port.S3,nxt.sensor.generic.Light)
+        colorSensor=self.robot.get_sensor(nxt.sensor.Port.S4,nxt.sensor.generic.Color)
+        return lightSensor, colorSensor
+    
+    def starLab(self):
+        light,color = self.getSensor()
+        going= False
+
+        while True:
+            colorValue= color.get_sample()
+            lightValue= light.get_sample()
+
+            if colorValue==nxt.sensor.generic.Color.DetectedColor.RED:
+                going= False
+                self.stopMotors()
+
+            if colorValue==nxt.sensor.generic.Color.DetectedColor.BLUE:
+                going= True
+
+
+            if going:
+                if   lightValue>450:
+                     self.motorB.turn(50,1)
+                else:
+                    self.motorC.turn(50,1)
+    
+    def stopMotors(self):
+        self.motorB.brake()
+        self.motorC.brake()
+    
+    def makeSound(self,frecuency, duration):
+        self.robot.play_tone(frecuency, duration)
+             
+if __name__ == "__main__":
+   myRobot = BrickRobot()
+   myRobot.starLab()

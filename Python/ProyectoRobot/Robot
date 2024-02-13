@@ -1,0 +1,40 @@
+from nxt.motor import Motor, Port
+import nxt.locator
+import time
+class BrickRobot:
+    def __init__(self):
+        self.robot = nxt.locator.find()
+        self.motorB = Motor(self.robot, Port.A)
+        self.motorC = Motor(self.robot, Port.C)
+
+    def move_forward(self):
+        self.motorB.run(power=75)
+        self.motorC.run(power=75)
+
+    def move_backward(self):
+        self.motorB.run(power=-75)
+        self.motorC.run(power=-75)
+
+    def turn(self):
+        self.motorB.run(power=75)
+        self.motorC.run(power=-75)
+
+if __name__ == "__main__":
+    myRobot = BrickRobot()
+
+    while True:
+        # Movimiento hacia adelante
+        myRobot.move_forward()
+        # Esperar un tiempo para el recorrido hacia adelante
+        time.sleep(2)
+
+        # Detener los motores y girar
+        myRobot.turn()
+
+        # Movimiento hacia atrás
+        myRobot.move_backward()
+        # Esperar un tiempo para el recorrido hacia atrás
+        time.sleep(2)
+
+        # Detener los motores y girar nuevamente
+        myRobot.turn()
